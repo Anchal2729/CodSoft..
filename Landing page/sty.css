@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,100;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display:flex;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar li{
+    list-style: null;
+    margin: 0 67px;
+}
+
+.topleft{
+    width:50%;
+    padding: 12px 0;
+}
+
+.topright{
+    width:50%;
+    padding: 12px 0 ;
+}
+
+
+.section1{
+    max-height: 100vh;
+}
+.section1 h1{
+ font: size 2rem;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.https:th.bing.com/th/id/OIP.Vnq163tJosFb1MtAXD3XHQHaE7rs1&pidImgDetMain.jpgw{
+    width:89px;
+}
+   
+.topleft  https:th.bing.com/th/id/OIP.Zik9c24oUpu5r6xJHrdaawHaFOw256&h180&c7&r0&o5&dpr15&pid17{
+    height: 666px;
+}
+
+
+.topright https:th.bing.com/th/id/OIP.Q4W1Ikk4EeAK4CV9uMteaAHaE8w321&h180&c7&r0&o5&dpr15&pid17.jpg{
+    padding : 12px 0;
+}
+
+.section2 p{
+    text-align: center;
+}
+
+.section2 h1{
+    font-size: 2rem;
+}
+
+.left https:th.bing.com/th/id/OIP.SjAUEwKqVgCNvE92q2XXUgHaEow263&h180&c7&r0&o5&dpr15&pid17{
+    padding : 12px 0;
+}
+ 
+.border{
+    color: grey;
+}
+
+.border1{
+    color: rgba(87, 81, 81, 0.133);
+}
+
+.border2{
+    color:rgb(104, 104, 193) ;
+}
+
+.border3{
+    color: rgba(230, 60, 60, 0.787);
+}
+
+.border4{
+    color:  grey;
+}
+
